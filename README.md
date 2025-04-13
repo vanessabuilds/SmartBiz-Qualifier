@@ -62,4 +62,5 @@ Continue improving the platform’s UX and features
 📄 
 This project is intended for educational and demonstration purposes.
 
+📹 Watch the demo 🎥:https://youtu.be/pmhNBxmrZ7M
 Devpost:https://devpost.com/software/smartbiz-qualifier
